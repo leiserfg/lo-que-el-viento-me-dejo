@@ -1,3 +1,3 @@
-# My Awesome Book
+# Lo que el viento me dejó
 
-This file serves as your book's preface, a great place to describe your book's content and ideas.
+Este libro es un compendio de ideas con sentido que andan sin sentido alguno por rebotando en un cerebro sin mapa.
